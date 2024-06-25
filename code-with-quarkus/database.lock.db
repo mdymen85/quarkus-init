@@ -1,0 +1,6 @@
+#FileLock
+#Wed Jun 26 08:43:54 BRT 2024
+server=127.0.1.1\:35623
+hostName=cp1821.matera.net.br
+method=file
+id=190545bf8dac0d9333eaf192a63be89325e5581faae

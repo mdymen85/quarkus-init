@@ -13,7 +13,6 @@ public class TestService {
     Config config;
 
     public TestObject setDateTime(TestObject testObject) {
-        testObject.setDateTime(LocalDateTime.now());
         testObject.setAppName(config.getValue("quarkus.application.name", String.class));
         return testObject;
     }
